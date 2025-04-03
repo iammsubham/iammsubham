@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/iammsubham/iammsubham/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+
 # Hi there, I am Subham Mohanta 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-subhammohanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhammohanta/)]([https://www.linkedin.com/in/subhammohanta/](https://www.linkedin.com/in/subhammohanta))
@@ -7,11 +9,10 @@
 
 ## 🛠️ Things I Love  
 
-- 🚀 Python  
-- 🖥️ Full Stack Development  
+- 🚀 Python  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🖥️ Full Stack Development
 - ⚡ DevOps & Cloud
 
-![Profile Banner](assets/banner.png)
 
 ## ⚙️ Tech Stack  
 
