@@ -7,7 +7,7 @@
 
 🚀 **Fun fact:** The first rule of programming - If it works, don't touch it! 😜  
 
-## 🛠️ **Things I Love**  
+🛠️ **Things I Love**  
 
 - 🚀 Python  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🖥️ Full Stack Development
@@ -17,10 +17,7 @@
 <img align="right" width=420 height="auto" src=https://github-readme-stats.vercel.app/api?username=iammsubham&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true&include_all_commits=true"/>
 </a>    
 
-
-
-
-## ⚙️ Tech Stack  
+⚙️ **Tech Stack**  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -41,15 +38,13 @@
 <img align="right" width=420 height="auto" src=https://github-readme-stats.vercel.app/api/top-langs/?username=iammsubham&layout=compact&theme=radical&border_color=61dafb&hide_border=true&include_all_commits=true"/>
 </a>
 
-
-
-## 🌍 Connect with me  
+🌍 **Connect with me**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/in/subhammohanta/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iammsubham)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([your-twitter-link](https://x.com/iaamsubham))
 
-## ❤️ Show Some Love  
+❤️ **Show Some Love**  
 
 If you like my work, consider giving a ⭐ to my repositories!  
 
