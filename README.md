@@ -1,6 +1,6 @@
 # Hi there, I am Subham Mohanta 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)]([your-portfolio-link](https://www.linkedin.com/in/subhammohanta/))
+[![Linkedin Badge](https://img.shields.io/badge/-subhammohanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhammohanta/)]([https://www.linkedin.com/in/subhammohanta/](https://www.linkedin.com/in/subhammohanta))
 [![Email](https://img.shields.io/badge/Email-subhammohanta2017@gmail.com-red)](mailto:subhammohanta2017@gmail.com)
 
 🚀 **Fun fact:** The first rule of programming - If it works, don't touch it! 😜  
