@@ -3,9 +3,13 @@
  Hi there👋, Subham this side 👨🏻‍💻
 
 🔭 I’m currently focusing on upgrading skills 👨⌛️
+
 🌱 Democratising the Kubernetes adoption 👨🏻‍💻
+
 👯 Open to collaborate on open-source Projects 🤗
+
 ⚙️ Loves to learn & share with the community 🐬
+
 💬 Ask me about anything, will we happy to help 👦🏻🥰
 
 [![Linkedin Badge](https://img.shields.io/badge/-subhammohanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhammohanta/)](https://www.linkedin.com/in/subhammohanta/)
