@@ -2,20 +2,21 @@
 
  Hi there👋, Subham this side 👨🏻‍💻
 
-🔭 I’m currently focusing on upgrading skills 👨⌛️
+-🔭 I’m currently focusing on upgrading skills 👨⌛️
 
-🌱 Democratising the Kubernetes adoption 👨🏻‍💻
+-🌱 Democratising the Kubernetes adoption 👨🏻‍💻
 
-👯 Open to collaborate on open-source Projects 🤗
+-👯 Open to collaborate on open-source Projects 🤗
 
-⚙️ Loves to learn & share with the community 🐬
+-⚙️ Loves to learn & share with the community 🐬
 
-💬 Ask me about anything, will we happy to help 👦🏻🥰
+-💬 Ask me about anything, will we happy to help 👦🏻🥰
 
 [![Linkedin Badge](https://img.shields.io/badge/-subhammohanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subhammohanta/)](https://www.linkedin.com/in/subhammohanta/)
 [![Gmail Badge](https://img.shields.io/badge/subhammohanta2017@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subhammohanta2017@gmail.com)](mailto:subhammohanta2017@gmail.com)
 
-🚀 **Fun fact:** The first rule of programming - If it works, don't touch it! 😜  
+- 🤗 Love to make new connections 👫🐥
+-🚀 **Fun fact:** The first rule of programming - If it works, don't touch it! 😜  
 
 🛠️ **Things I Love**  
 
